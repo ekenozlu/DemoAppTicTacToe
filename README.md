@@ -12,9 +12,9 @@ In this demo app I created a Tic Tac Toe application on Swift with Storyboard.
 
 ## In this demo app I used and practiced:
 1. UIKit and Storyboard
-⋅⋅⋅UIBotton,UILabel,UIColor,UIColorWell,UISlider
+   UIBotton,UILabel,UIColor,UIColorWell,UISlider
 2. Navigation Controller
-⋅⋅⋅Back Button, Bar Item
+   Back Button, Bar Item
 
 
 
