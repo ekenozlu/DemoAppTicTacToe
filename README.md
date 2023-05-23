@@ -17,6 +17,7 @@ In this demo app I created a Tic Tac Toe application on Swift with Storyboard.
   * UIColor
   * UIColorWell
   * UISlider
+  * UIAlertController
 2. Navigation Controller
   * Back Button
   * Bar Item
