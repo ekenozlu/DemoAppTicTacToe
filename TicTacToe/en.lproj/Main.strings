@@ -1,0 +1,54 @@
+
+/* Class = "UILabel"; text = "Player 1 Label Color:"; ObjectID = "0oB-s2-ZQD"; */
+"0oB-s2-ZQD.text" = "Player 1 Label Color:";
+
+/* Class = "UILabel"; text = "3"; ObjectID = "1Tp-ZJ-nXz"; */
+"1Tp-ZJ-nXz.text" = "3";
+
+/* Class = "UIButton"; configuration.title = "SAVE"; ObjectID = "F7k-w4-Ppy"; */
+"F7k-w4-Ppy.configuration.title" = "SAVE";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "F7k-w4-Ppy"; */
+"F7k-w4-Ppy.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "Player 2 Name"; ObjectID = "G6c-FU-fxJ"; */
+"G6c-FU-fxJ.placeholder" = "Player 2 Name";
+
+/* Class = "UILabel"; text = "Game Settings"; ObjectID = "N73-Rf-Bye"; */
+"N73-Rf-Bye.text" = "Game Settings";
+
+/* Class = "UILabel"; text = "github/ekenozlu"; ObjectID = "Rar-yB-6xz"; */
+"Rar-yB-6xz.text" = "github/ekenozlu";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "Sae-o2-SsX"; */
+"Sae-o2-SsX.title" = "Item";
+
+/* Class = "UILabel"; text = "Game Board Line Color:"; ObjectID = "Wb0-NQ-pvI"; */
+"Wb0-NQ-pvI.text" = "Game Board Line Color:";
+
+/* Class = "UILabel"; text = "X"; ObjectID = "Y5Q-Op-rVB"; */
+"Y5Q-Op-rVB.text" = "X";
+
+/* Class = "UILabel"; text = "O"; ObjectID = "a7C-U2-Ikj"; */
+"a7C-U2-Ikj.text" = "O";
+
+/* Class = "UILabel"; text = "Saving new settings will reset the game board and score"; ObjectID = "d6U-4u-lbY"; */
+"d6U-4u-lbY.text" = "Saving new settings will reset the game board and score";
+
+/* Class = "UILabel"; text = "Score to Win"; ObjectID = "hJC-67-kZy"; */
+"hJC-67-kZy.text" = "Score to Win";
+
+/* Class = "UILabel"; text = "This demo game was developed by Eken Özlü on May 2023."; ObjectID = "jIE-jE-bzt"; */
+"jIE-jE-bzt.text" = "This demo game was developed by Eken Özlü on May 2023.";
+
+/* Class = "UITextField"; placeholder = "Player 1 Name"; ObjectID = "jdN-yR-7td"; */
+"jdN-yR-7td.placeholder" = "Player 1 Name";
+
+/* Class = "UILabel"; text = "Player 2 Settings"; ObjectID = "jzl-VW-Idb"; */
+"jzl-VW-Idb.text" = "Player 2 Settings";
+
+/* Class = "UILabel"; text = "Player 1 Settings"; ObjectID = "w0d-Sy-oBl"; */
+"w0d-Sy-oBl.text" = "Player 1 Settings";
+
+/* Class = "UILabel"; text = "Player 2 Label Color:"; ObjectID = "xzo-5N-dRt"; */
+"xzo-5N-dRt.text" = "Player 2 Label Color:";
