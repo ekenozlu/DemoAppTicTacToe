@@ -22,11 +22,15 @@ In this demo app I created a Tic Tac Toe application on Swift with Storyboard.
   * Back Button
   * Bar Item
 
-![alt text](https://github.com/ekenozlu/DemoAppTicTacToe/blob/main/light_gamescreen.png "Light Game Screen")
+| Light Game Screen                   | Dark Game Screen                    | Light Settings Screen                       |
+| ----------------------------------- | ----------------------------------- | ------------------------------------------- |
+| ![LightGameScreen](https://github.com/ekenozlu/DemoAppTicTacToe/blob/main/light_gamescreen.png "Light Game Screen") | ![DarkGameScreen](https://github.com/ekenozlu/DemoAppTicTacToe/blob/main/dark_gamescreen.png "Dark Game Screen") | ![LightSettingsScreen](https://github.com/ekenozlu/DemoAppTicTacToe/blob/main/light_settingsscreen.png "Light Settings Screen") |
 
-![alt text](https://github.com/ekenozlu/DemoAppTicTacToe/blob/main/dark_gamescreen.png "Dark Game Screen")
 
-![alt text](https://github.com/ekenozlu/DemoAppTicTacToe/blob/main/light_settingsscreen.png "Light Settings Screen")
+
+
+
+
 
 
 
